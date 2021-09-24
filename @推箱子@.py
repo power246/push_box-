@@ -166,3 +166,8 @@ add_observer(balla_observer)
 
 
 run()
+
+'''
+power胖丸
+'''
+
